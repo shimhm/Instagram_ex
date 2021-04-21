@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "501117596290",
+    "project_id": "instagramex-e2260",
+    "storage_bucket": "instagramex-e2260.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:501117596290:android:ad6919559cda63bd95fa9b",
+        "android_client_info": {
+          "package_name": "com.example.howlstagram_ex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "501117596290-p6hakda21s6act8f9tvtuthj0h61pigj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJhSdO1ELjsIwXTUZu1MJ0pKvDpudba3Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "501117596290-p6hakda21s6act8f9tvtuthj0h61pigj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
