@@ -27,6 +27,12 @@ class LoginActivity : AppCompatActivity() {
 
     }
 
+    override fun onStart() {
+        super.onStart()
+        moveMainPage(auth?.currentUser)
+    }
+
+
     fun email_login(){
         if(email_edt.text.toString().isNullOrEmpty() || password_edt.text.toString().isNullOrEmpty()){
             Toast.makeText(this, "이메일 혹은 비밀번호를 입력해주세요",Toast.LENGTH_SHORT).show()
